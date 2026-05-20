@@ -1,16 +1,11 @@
 <h1 align="center">Hey! I'm Om</h1>
-
-<p align="center">
-   Student Developer | Jake of all trades <br>
-   Curious learner exploring tech, AI & software <br>
-   Building, experimenting, and learning every day <br>
-   2027 Graduate
-</p>
-
-<br>
-
+<p>
+  -> Student Developer | Jake of all trades <br>
+  <- Curious learner exploring tech, AI & software <br>
+  -> Building, experimenting, and learning every day <br>
+  <- 2027 Graduate
+</p> 
 <h2>🌐 Connect With Me</h2>
-
 <p>
   <a href="https://www.linkedin.com/in/om-apar-2689b42bb">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
@@ -20,8 +15,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<br>
 
 <h2>💻 Languages & Tools</h2>
 
@@ -44,8 +37,6 @@
 
 </p>
 
-<br>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -58,23 +49,17 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Omiiii04&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160"/>
 </p>
 
-<br>
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Omiiii04&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
-<br>
-
 <h2>✍️ Random Dev Quote</h2>
 
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
-
-<br>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Omiiii04&icon=10&color=blue" />
