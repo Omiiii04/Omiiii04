@@ -1,4 +1,4 @@
-#                                                                     Omii:
+<h1 align="center">Omii</h1>
 -> Student Developer | Jake of all trades<br><- Curious learner exploring tech, AI & software<br>-> Building, experimenting, and learning every day<br><- 2027 Graduate<br><br>
 
 
