@@ -42,7 +42,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omiiii04&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Omiiii04&theme=onedark" />
 </p>
 
 <h2>✍️ Random Dev Quote</h2>
