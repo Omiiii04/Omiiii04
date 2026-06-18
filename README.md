@@ -1,9 +1,9 @@
 <h1 align="center">Hey! I'm Om</h1>
 <p>
-  -> Student <strong>Developer</strong> | Jake of all trades <br>
-  <- <strong>Curious</strong> learner exploring tech, AI & software <br>
-  -> Building, experimenting, and <strong>learning every day</strong> <br>
-  <- 2027 Graduate
+  - Student <strong>Developer</strong> | Jake of all trades <br>
+  - <strong>Curious</strong> learner exploring tech, AI & software <br>
+  - Building, experimenting, and <strong>learning every day</strong> <br>
+  - 2027 Graduate
 </p> 
 <h2 align="left">Connect with me</h2>
 
