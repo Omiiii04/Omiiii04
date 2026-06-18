@@ -27,19 +27,17 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,go,kotlin,linux,aws,gcp,django,flask,mongodb,mysql,postgres,redis,tensorflow,pytorch,git,github,docker,figma,arduino" />
 </p>
-<h2 align="center">📊 GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.shion.dev/api?username=Omiiii04&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omiiii04&theme=dracula&hide_border=true" height="160"/>
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Omiiii04&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Omiiii04&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160"/>
-</p>
-
-<h2>✍️ Random Dev Quote</h2>
+<h2>Random Dev Quote</h2>
 
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
