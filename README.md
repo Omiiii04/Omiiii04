@@ -39,12 +39,6 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Omiiii04&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160"/>
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omiiii04&theme=onedark" />
-</p>
-
 <h2>✍️ Random Dev Quote</h2>
 
 <p>
