@@ -37,12 +37,8 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Omiiii04&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
-<h2>Random Dev Quote</h2>
 
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</p>
 
-<p>
+<p align='center'>
   <img src="https://komarev.com/ghpvc/?username=Omiiii04&icon=10&color=blue" />
 </p>
